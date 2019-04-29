@@ -6,7 +6,7 @@ li {
   list-style: none;
 }
 
-.header {
+header {
   background-color: #26d0c9;
   color: #fff;
   height: 90px;
@@ -47,8 +47,6 @@ li {
 .section-title {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
-  padding-bottom: 15px;
-  margin-bottom: 20px;
   color: #2f5167;
 }
 
@@ -61,10 +59,6 @@ li {
   font-size: 20px;
   margin-top: 10px;
   color: #26d0c9;
-}
-
-.contact-form {
-  padding-top: 100px;
 }
 
 input, textarea {
@@ -80,7 +74,7 @@ input, textarea {
   color: #889eab;
 }
 
-.footer {
+footer {
   background-color: #2f5167;
   color: #fff;
   height: 120px;
