@@ -1,10 +1,9 @@
 # GTO-Poker-School
 
-HTMLの練習用です。
-GTO Poker Schoolという架空のポーカー学習サイトをイメージしてみました。
+HTMLとCSSの練習用です！
+
+GTO Poker Schoolという架空のポーカー学習サイトをイメージして、ウェブサイトを作ってみました。
 
 https://lily0727k.github.io/GTO-Poker-School/
 
-noteの記事へのリンクは本物ですが、それ以外のリンクは見かけだけです。
-
-お問い合わせにメッセージを入れても送信はできません。
+注)GTO Poker Schoolは実在しません。
